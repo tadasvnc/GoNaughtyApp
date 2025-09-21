@@ -3,17 +3,17 @@ import Autoplay from "embla-carousel-autoplay";
 import s0 from "@/assets/s0.jpg";
 import s1 from "@/assets/s1.jpg";
 import s2 from "@/assets/s2.jpg";
-import s3 from "@/assets/s3.jpg";
+import s3 from "@/assets/s3.png";
 import s4 from "@/assets/s4.jpg";
 import s5 from "@/assets/s5.jpg";
 
 const screenshots = [
-  { image: s0, caption: "Spin the Wheel of Desire" },
-  { image: s1, caption: "Unlock Naughty Challenges" },
-  { image: s2, caption: "Explore Intimate Questions" },
-  { image: s3, caption: "Discover New Positions" },
-  { image: s4, caption: "Roll the Erotic Dice" },
-  { image: s5, caption: "Personalize Your Experience" },
+  { image: s0, caption: "Pick your Favorite pack" },
+  { image: s2, caption: "Play Dirty Truth or Dare" },
+  { image: s1, caption: "Unlock Naughty Dares" },
+  { image: s3, caption: "Explore Kamasutra Positions" },
+  { image: s4, caption: "Answer Sexy Questions" },
+  { image: s5, caption: "Choose Sexy Items" },
 ];
 
 export const AppScreenshots = () => {
