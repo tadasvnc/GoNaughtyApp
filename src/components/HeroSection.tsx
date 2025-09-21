@@ -1,10 +1,6 @@
 import { Heart, Star } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
-<<<<<<< HEAD
 import heroImage from "@/assets/couple2.png";
-=======
-import heroImage from "@/assets/pixels.jpg";
->>>>>>> bfa17e121aaa1360a9a6f81035420132177de101
 import appStoreButton from "@/assets/app-store-button.png";
 export const HeroSection = () => {
   return <section className="min-h-screen flex items-center pt-20 bg-gradient-to-b from-[#590C6B] via-[#3B0645] to-[#28024D] relative">
@@ -67,11 +63,7 @@ export const HeroSection = () => {
                     <div className="w-6 h-6 md:w-8 md:h-8 bg-gradient-to-br from-pink-500 to-purple-600 rounded-full flex items-center justify-center shadow-lg">
                       <Heart className="w-3 h-3 md:w-4 md:h-4 text-white fill-current" />
                     </div>
-<<<<<<< HEAD
                     <span className="text-xs md:text-sm font-semibold text-white drop-shadow-lg">Sex Positions & Locations</span>
-=======
-                    <span className="text-xs md:text-sm font-semibold text-white drop-shadow-lg">Fun Surprises</span>
->>>>>>> bfa17e121aaa1360a9a6f81035420132177de101
                   </div>
                 </div>
                 
