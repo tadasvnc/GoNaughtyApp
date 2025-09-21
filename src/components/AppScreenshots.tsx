@@ -3,7 +3,6 @@ import Autoplay from "embla-carousel-autoplay";
 import s0 from "@/assets/s0.jpg";
 import s1 from "@/assets/s1.jpg";
 import s2 from "@/assets/s2.jpg";
-<<<<<<< HEAD
 import s3 from "@/assets/s3.png";
 import s4 from "@/assets/s4.jpg";
 import s5 from "@/assets/s5.jpg";
@@ -15,13 +14,6 @@ const screenshots = [
   { image: s3, caption: "Explore Kamasutra Positions" },
   { image: s4, caption: "Answer Sexy Questions" },
   { image: s5, caption: "Choose Sexy Items" },
-=======
-
-const screenshots = [
-  { image: s0 },
-  { image: s1 },
-  { image: s2 },
->>>>>>> bfa17e121aaa1360a9a6f81035420132177de101
 ];
 
 export const AppScreenshots = () => {
