@@ -13,7 +13,7 @@ export const DownloadCTA = () => {
           {/* Main CTA Content */}
           <div className="mb-12">
             <h2 className="text-4xl md:text-6xl font-bold text-white mb-6">
-              Ready to Add Some Fun?
+              Ready to Spice Things Up?
             </h2>
             <p className="text-xl md:text-2xl text-white/90 mb-8 leading-relaxed">
               Join over <span className="text-pink-400 font-bold">6,000+ couples</span> who've already transformed their relationship
