@@ -7,13 +7,13 @@ export const TermsOfService = () => {
       <div className="pt-24 pb-16">
       <div className="container mx-auto px-6 max-w-4xl">
         <div className="bg-black/20 backdrop-blur-sm border border-white/10 rounded-2xl p-8 md:p-12">
-          <h1 className="text-4xl md:text-5xl font-bold text-white mb-8">CoupleChallenges App Terms and Conditions</h1>
+          <h1 className="text-4xl md:text-5xl font-bold text-white mb-8">GoNaughty App Terms and Conditions</h1>
           
           <div className="prose prose-invert prose-lg max-w-none">
             <p className="text-white/90 text-lg mb-6">Last updated: September 22, 2024</p>
             
             <p className="text-white/90 mb-8">
-              These Terms and Conditions ("Terms" or "Agreement") govern your use of the CoupleChallenges mobile application ("Mobile Application" or "Service") and its related products and services (collectively, "Services"). By using the Mobile Application and Services, you agree to these Terms. If you're acting on behalf of a company or entity, you confirm you have the authority to bind that entity.
+              These Terms and Conditions ("Terms" or "Agreement") govern your use of the GoNaughty mobile application ("Mobile Application" or "Service") and its related products and services (collectively, "Services"). By using the Mobile Application and Services, you agree to these Terms. If you're acting on behalf of a company or entity, you confirm you have the authority to bind that entity.
             </p>
 
             <h2 className="text-2xl font-bold text-white mt-8 mb-4">Important Information</h2>
@@ -23,12 +23,12 @@ export const TermsOfService = () => {
 
             <h2 className="text-2xl font-bold text-white mt-8 mb-4">Applicability</h2>
             <p className="text-white/90 mb-6">
-              These Terms define your access to and use of the Services related to the CoupleChallenges mobile application. They constitute a legally binding contract between you and CoupleChallenges. You must be of legal age in your jurisdiction to accept these Terms. "Including" means "including, but not limited to."
+              These Terms define your access to and use of the Services related to the GoNaughty mobile application. They constitute a legally binding contract between you and GoNaughty. You must be of legal age in your jurisdiction to accept these Terms. "Including" means "including, but not limited to."
             </p>
 
             <h2 className="text-2xl font-bold text-white mt-8 mb-4">Registration and Agreement</h2>
             <p className="text-white/90 mb-6">
-              To use CoupleChallenges, download the Mobile Application from the App Store. We reserve the right to deny your request to use the Services without explanation. By agreeing to these Terms, you consent to electronic communication for contracts and notices.
+              To use GoNaughty, download the Mobile Application from the App Store. We reserve the right to deny your request to use the Services without explanation. By agreeing to these Terms, you consent to electronic communication for contracts and notices.
             </p>
 
             <h2 className="text-2xl font-bold text-white mt-8 mb-4">Adult Content</h2>
