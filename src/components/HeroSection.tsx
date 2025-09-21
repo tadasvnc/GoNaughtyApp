@@ -9,35 +9,32 @@ export const HeroSection = () => {
           {/* Left Content */}
           <div className="space-y-8">
             <Badge variant="outline" className="border-primary text-primary hover:bg-primary hover:text-primary-foreground w-fit">
-              #1 Romantic Game for couples
+              #1 Sex-Game for couples
             </Badge>
             
             <div className="space-y-6">
               <h1 className="text-5xl lg:text-7xl font-bold leading-tight">
-                Rediscover{" "}
+                Experience{" "}
                 <span className="bg-hero-gradient bg-clip-text text-transparent">
-                  Connection
+                  Sex
                 </span>{" "}
-                with your partner
+                like never before
               </h1>
               
               <p className="text-xl text-muted-foreground leading-relaxed max-w-lg">
-                Spark your connection with 1000+ bold, curious, and wildly fun romantic challenges & questions made for every kind of couple.
+                Spark your connection with 1000+ bold, curious, and wildly fun sex challenges & questions made for every kind of couple.
               </p>
             </div>
             
             {/* Download Buttons */}
             <div className="flex flex-col sm:flex-row gap-4">
-              <button 
-                onClick={() => window.open('https://apps.apple.com/us/app/sex-game-for-couples-kinky/id6503987806?ppid=0f68efee-b52c-4c94-b961-50a016c3450f', '_blank')}
-                className="inline-block cursor-pointer"
-              >
+              <a href="https://apps.apple.com/lt/app/sex-game-for-couples-kinky/id6503987806" target="_blank" rel="noopener noreferrer" className="inline-block">
                 <img 
                   src={appStoreButton}
                   alt="Download on the App Store"
-                  className="h-14 md:h-20 w-auto hover:scale-105 transition-transform"
+                  className="h-14 md:h-20 w-auto"
                 />
-              </button>
+              </a>
             </div>
             
             {/* Rating */}

@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { Menu, X } from "lucide-react";
 import { useState } from "react";
-import couplesLogo from "@/assets/couples-challenges-logo.png";
+import goNaughtyLogo from "@/assets/gonaughty-logo.png";
 
 export const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -21,8 +21,8 @@ export const Header = () => {
       <div className="container mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <a href="/" className="flex items-center space-x-3 hover:opacity-80 transition-opacity">
-            <img src={couplesLogo} alt="CoupleChallenges Logo" className="w-12 h-12" />
-            <span className="hidden md:block text-2xl font-bold text-foreground font-quicksand tracking-tight">CoupleChallenges</span>
+            <img src={goNaughtyLogo} alt="GoNaughty! Logo" className="w-12 h-12" />
+            <span className="hidden md:block text-2xl font-bold text-foreground font-quicksand tracking-tight">GoNaughty!</span>
           </a>
           
           {/* Desktop Navigation */}

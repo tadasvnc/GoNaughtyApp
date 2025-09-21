@@ -7,13 +7,13 @@ export const PrivacyPolicy = () => {
       <div className="pt-24 pb-16">
       <div className="container mx-auto px-6 max-w-4xl">
         <div className="bg-black/20 backdrop-blur-sm border border-white/10 rounded-2xl p-8 md:p-12">
-          <h1 className="text-4xl md:text-5xl font-bold text-white mb-8">Privacy Policy for CoupleChallenges</h1>
+          <h1 className="text-4xl md:text-5xl font-bold text-white mb-8">Privacy Policy for GoNaughty</h1>
           
           <div className="prose prose-invert prose-lg max-w-none">
             <p className="text-white/90 text-lg mb-6">Last updated: November 10, 2024</p>
             
             <p className="text-white/90 mb-8">
-              This Privacy Policy outlines how we collect, use, and protect your information when you use our mobile application, CoupleChallenges. By using our app, you consent to the collection and use of your data in accordance with this policy.
+              This Privacy Policy outlines how we collect, use, and protect your information when you use our mobile application, GoNaughty. By using our app, you consent to the collection and use of your data in accordance with this policy.
             </p>
 
             <h2 className="text-2xl font-bold text-white mt-8 mb-4">Data Collected</h2>
@@ -32,12 +32,12 @@ export const PrivacyPolicy = () => {
 
             <h2 className="text-2xl font-bold text-white mt-8 mb-4">What Collects Third Party</h2>
             <p className="text-white/90 mb-6">
-              We use third-party processors to securely handle your payment information. The use of your personal information by these third-party processors is governed by their respective privacy policies. We recommend reviewing their policies as they may differ from this one. CoupleChallenges cannot be held responsible for the actions of these third-party payment processors.
+              We use third-party processors to securely handle your payment information. The use of your personal information by these third-party processors is governed by their respective privacy policies. We recommend reviewing their policies as they may differ from this one. GoNaughty cannot be held responsible for the actions of these third-party payment processors.
             </p>
 
             <h2 className="text-2xl font-bold text-white mt-8 mb-4">Billing and Payments</h2>
             <p className="text-white/90 mb-6">
-              We use third-party processors to securely handle your payment information. The use of your personal information by these third-party processors is governed by their respective privacy policies. We recommend reviewing their policies as they may differ from this one. CoupleChallenges cannot be held responsible for the actions of these third-party payment processors.
+              We use third-party processors to securely handle your payment information. The use of your personal information by these third-party processors is governed by their respective privacy policies. We recommend reviewing their policies as they may differ from this one. GoNaughty cannot be held responsible for the actions of these third-party payment processors.
             </p>
 
             <h2 className="text-2xl font-bold text-white mt-8 mb-4">Security of Data</h2>
